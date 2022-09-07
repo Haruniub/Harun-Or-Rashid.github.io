@@ -62,19 +62,14 @@ h3{
       border-radius: 5px;
       
   }
-//max-height: 80vh;
+
   .carousel-item
   {
-      
-	  height: 120px;
-      width: 120px;
-	  border-radius: 20px;
+      max-height: 80vh;
+	  
   }
 
-#header-image-menu{
-	top: 10px;
-	position: relative;
-}
+
 
 
   .publication-url{
