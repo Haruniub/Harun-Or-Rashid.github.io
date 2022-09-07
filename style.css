@@ -68,6 +68,11 @@ h3{
       max-height: 80vh; 
   }
 
+#header-image-menu{
+	top: 10px;
+	position: relative;
+}
+
 
   .publication-url{
        
