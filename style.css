@@ -65,7 +65,9 @@ h3{
 
   .carousel-item
   {
-      max-height: 80vh; 
+      max-height: 80vh;
+	  height: 120px;
+      width: 120px;
   }
 
 #header-image-menu{
